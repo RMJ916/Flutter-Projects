@@ -1,4 +1,4 @@
-# Flutter Projects
+# Flutter Projects Information
 
 <a href="https://www.packtpub.com/in/mobile/flutter-projects?utm_source=github&utm_medium=repository&utm_campaign=9781838647773"><img src="https://static.packt-cdn.com/products/9781838647773/cover/smaller" alt="Flutter Projects" height="256px" align="right"></a>
 
